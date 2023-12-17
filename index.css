@@ -396,6 +396,37 @@ a{
    left: 50px;
    margin-top: 100px;
 }
+ #Q6:hover{
+   background-color:rgb(65, 65, 65) ;
+   transition:0.2s;
+    
+ }
+ #Q5:hover{
+   background-color:rgb(65, 65, 65) ;
+   transition:0.2s;
+    
+ }
+ #Q4:hover{
+   background-color:rgb(65, 65, 65) ;
+   transition:0.2s;
+    
+ }
+ #Q3:hover{
+   background-color:rgb(65, 65, 65) ;
+   transition:0.2s;
+    
+ }
+ #Q2:hover{
+   background-color:rgb(65, 65, 65) ;
+   transition:0.2s;
+    
+ }
+ #Q1:hover{
+   background-color:rgb(65, 65, 65) ;
+   transition:0.2s;
+    
+ }
+
 #copy{
    margin-top: 60px;
    color: #fff;
